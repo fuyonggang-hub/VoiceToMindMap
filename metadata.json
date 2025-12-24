@@ -1,0 +1,7 @@
+{
+  "name": "Speech2Formal",
+  "description": "Transform your spontaneous spoken thoughts into professional, logically structured formal text using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
